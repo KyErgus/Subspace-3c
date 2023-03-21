@@ -1,4 +1,4 @@
-## MUSTAFANIN DİKKATİNE; ÖDÜL YOK DİYORLAR
+## MUSTAFANIN DİKKATİNE; ÖDÜL YOK DİYORLAR... FORKLAMAYI UNUTMAYIN.
 ## Tavsiye Edilen Sistem Gereksinimleri
 - CPU: 4+ ÇEKİRDEK
 - RAM: 4+ GB (Önerilen 8)
